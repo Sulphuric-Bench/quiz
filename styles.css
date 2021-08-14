@@ -1,0 +1,29 @@
+h1{
+    color:whitesmoke;
+    text-align: center;
+    border: solid 5px black;
+    border-radius: 20px;
+    background:black;
+    border-width: fit-content ;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 0%;
+}
+.month{
+    border: solid 1px black;
+    background-color:cyan;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 10%;
+    height: 20%;
+    text-align: center;
+    margin-left: 62%;
+    font-weight: bold;
+    padding: 0px;
+
+}
+.quiz-form{
+  
+}
