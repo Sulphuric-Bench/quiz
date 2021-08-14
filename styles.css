@@ -1,4 +1,4 @@
-h1{
+.wc{
     color:whitesmoke;
     text-align: center;
     border: solid 5px black;
@@ -21,9 +21,5 @@ h1{
     text-align: center;
     margin-left: 62%;
     font-weight: bold;
-    padding: 0px;
+    padding: 0px;}
 
-}
-.quiz-form{
-  
-}
