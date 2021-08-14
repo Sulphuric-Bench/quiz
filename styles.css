@@ -23,5 +23,9 @@
     text-align: center;
     margin-left: 62%;
     font-weight: bold;
-    ;}
+    }
 
+body{
+    min-height: 100%;
+    min-width: 100%;
+}    
